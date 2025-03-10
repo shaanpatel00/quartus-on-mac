@@ -14,6 +14,7 @@ VMware Fusion is a virtualization software that allows users to run different op
 
 ### Step 1: Creating a Broadcom Account  
 Navigate to [Broadcom's website](https://www.broadcom.com/) and click "Support Portal" on the top right corner, then click "Register".
+![Alt text](quartus-on-mac-images/broadcom-main-page.png)
 
 Fill out the registration information, then click "Create Account".
 
