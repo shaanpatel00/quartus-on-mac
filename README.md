@@ -14,24 +14,31 @@ VMware Fusion is a virtualization software that allows users to run different op
 
 ### Step 1: Creating a Broadcom Account  
 Navigate to [Broadcom's website](https://www.broadcom.com/) and click "Support Portal" on the top right corner, then click "Register".
-![Alt text](quartus-on-mac-images/broadcom-main-page.png)
+![Broadcom Main Page](quartus-on-mac-images/broadcom-main-page.png)
 
 Fill out the registration information, then click "Create Account".
+![Broadcom Registration page](quartus-on-mac-images/broadcom-registration.png)
 
 If the site asks you to build your profile, click "I’ll do it later".
 
 ### Step 2: Downloading VMWare Fusion  
 Now that you have a Broadcom account, you can download the free-to-use VMWare Fusion. Click the dropdown in the top right and navigate to "VMWare Cloud Foundation".
+![Broadcom VMWare tab](quartus-on-mac-images/broadcom-vmware-tab.png)
 
 Then click "My Downloads" on the left pane and then click the "Free Software Downloads available HERE" button.
+![Broadcom account downloads](quartus-on-mac-images/broadcom-downloads-screen.png)
 
 Type in "VMWare Fusion" in the "Search Product Name" field on the top right and click enter.
+![Broadcom VMWare Fusion downloads](quartus-on-mac-images/broadcom-vmware-fusion-download-screen.png)
 
 Click the "VMWare Fusion" button, expand the dropdown, and click the link for the latest version.
+![Broadcom VMWare Fusion Version List](quartus-on-mac-images/broadcom-vmware-versions.png)
 
 Agree to the terms and conditions by checking the box. Then you can click the button with the cloud and down arrow on the right-hand side. Press "Yes" to the popup that prompts you for additional verification.
+![Broadcom VMWare Fusion Terms and Conditions](quartus-on-mac-images/broadcom-terms-and-conditions.png)
 
 Fill out your additional information and click "Submit".
+![Broadcom Account Verification](quartus-on-mac-images/broadcom-account-verification.png)
 
 Click the checkbox next to the terms and conditions again, and start the download.
 
